@@ -1,7 +1,7 @@
 # 7S-015-BLU-CC
 Seven Segment 1.5 inch Common Cathode - Blue 
 
-<img width="600" height="395" alt="image" src="https://github.com/user-attachments/assets/a771b5f5-76d1-4adb-b317-ebdaf42de68d" />
+<img width="408" height="269" alt="image" src="https://github.com/user-attachments/assets/821a45e2-d56b-4936-8415-ed16782fe7cc" />
 
 
 
